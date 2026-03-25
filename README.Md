@@ -204,7 +204,7 @@ python edge_sub.py
 uvicorn app_server:app --reload
 
 
-⸻
+---
 
 ☁️ MLflow Tracking
 
