@@ -234,6 +234,6 @@ http://127.0.0.1:5000
 
 ## Author
 
-**Samuel Sathiyamoorthy**
-MSc Cloud Computing – Newcastle University
-ssamuelpillai@gmail.com
+**Samuel Sathiyamoorthy**  
+MSc Cloud Computing – Newcastle University  
+📧 [samuelpillai@gmail.com]
