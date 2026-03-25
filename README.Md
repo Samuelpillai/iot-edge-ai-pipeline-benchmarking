@@ -191,22 +191,22 @@ RPiPipeline/
 ```bash
 pip install -r requirements.txt
 
-2. Start MQTT Broker
+### 2. Start MQTT Broker
 mosquitto
 
-3. Run IoT Pipeline
+### 3. Run IoT Pipeline
 python iot_y_pub.py
 
-4. Run Edge Subscriber
+### 4. Run Edge Subscriber
 python edge_sub.py
 
-5. Start API
+### 5. Start API
 uvicorn app_server:app --reload
 
 
 ---
 
-☁️ MLflow Tracking
+## MLflow Tracking
 
 mlflow ui
 Access at:
