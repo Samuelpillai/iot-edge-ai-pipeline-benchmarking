@@ -190,6 +190,7 @@ RPiPipeline/
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 ### 2. Start MQTT Broker
 mosquitto
@@ -215,7 +216,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
     •   Task partitioning is more impactful than model choice
     •   Edge offloading significantly reduces IoT overload
     •   MQTT enables scalable, decoupled architectures
@@ -223,7 +224,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
     •   Model quantisation & pruning
     •   Multi-device IoT scaling
     •   Cloud integration (AWS/GCP)
@@ -231,7 +232,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Samuel Sathiyamoorthy
 MSc Cloud Computing – Newcastle University
