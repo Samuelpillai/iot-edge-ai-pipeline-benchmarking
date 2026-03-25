@@ -1,0 +1,52 @@
+# macOS
+.DS_Store
+
+# VS Code / JetBrains
+.vscode/
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venvs/
+env/
+ENV/
+model-fix-env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# MLflow
+mlruns/
+
+# Python Build / Packaging
+build/
+dist/
+*.egg-info/
+
+# Environment Files
+.env
+
+# Generated output files
+output/
+*.jsonl
+
+# Model files (large binaries)
+*.pt
+*.joblib
+*.pickle
+*.pkl
+*.pth
+*.dylib
+
+# System / cache
+.cache/
